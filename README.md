@@ -1,4 +1,4 @@
-COMP 124:  Audio Fingerprinting
+Audio Fingerprinting
 ==========================
 
 This is an audio recognition program that is similar in style to the Shazam app.
